@@ -1,3 +1,4 @@
 __version__ = "0.1.0"
 
 from .flight_planner import *  # noqa
+from .dashboard_generation import *  # noqa
